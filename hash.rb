@@ -20,3 +20,19 @@ opposites = {positive: "negative", up: "down", left: "right"}
 opposites.each_key { |key| puts key}
 opposites.each_value { |value| puts value}
 opposites.each {|k, v| puts "the #{k} and its opposite, #{v}"}
+
+result = {}
+
+words.each do |word|
+  key = word.split('').sort.join
+  if result.has_key?(key)
+    result[key].push(word)
+  else
+    result[key] = [word]
+  end
+end
+
+result.each do |k, v|
+  puts "------"
+  p v
+end

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, Dice. All Rights Reserved. Slashdot is a Dice Holdings, Inc. service</dc:rights>
+<dc:date>2015-03-05T00:14:11+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/04/2254242/white-house-threatens-veto-over-epa-secret-science-bills?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/04/2047226/paul-allen-helps-find-sunken-japanese-wwii-battleship-musashi-off-philippines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/03/04/2038208/new-wolfenstein-game-announced-the-old-blood?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/03/04/2025253/spacexs-challenge-against-blue-origins-patent-fails-to-take-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/03/04/2031241/star-trek-fans-told-to-stop-spocking-canadian-5-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/03/04/2026247/drones-underwater-drones-on-wheels-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/03/04/1748223/new-zealand-spied-on-nearly-two-dozen-pacific-countries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://mobile.slashdot.org/story/15/03/04/1746209/microsoft-convinced-that-windows-10-will-be-its-smartphone-breakthrough?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://linux.slashdot.org/story/15/03/04/1740233/demand-for-linux-skills-rising-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://entertainment.slashdot.org/story/15/03/04/179222/the-moon-is-a-harsh-mistress-coming-to-the-big-screen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/04/1621252/us-air-traffic-control-system-is-riddled-with-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/04/1536201/racial-discrimination-affects-virtual-reality-characters-too?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/03/04/1526202/one-year-later-were-no-closer-to-finding-mtgoxs-missing-millions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/03/04/1444224/the-mexican-drug-cartels-involuntary-it-guy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/03/04/1337227/nvidia-announces-shield-game-console?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://science.slashdot.org/story/15/03/04/2254242/white-house-threatens-veto-over-epa-secret-science-bills?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>White House Threatens Veto Over EPA "Secret Science" Bills</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/VhCcE_NCLYc/white-house-threatens-veto-over-epa-secret-science-bills</link>
+<description>sciencehabit writes The U.S. House of Representatives could vote as early as this week to approve two controversial, Republican-backed bills that would change how the U.S. Environmental Protection Agency (EPA) uses science and scientific advice to inform its policies. Many Democrats, scientific organizations, and environmental groups are pushing back, calling the bills thinly veiled attempts to weaken future regulations and favor industry. White House advisers announced that they will recommend that President Barack Obama veto the bills if they reach his desk in their current form.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=White+House+Threatens+Veto+Over+EPA+%22Secret+Science%22+Bills%3A+http%3A%2F%2Fbit.ly%2F1BTa9Ep"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F04%2F2254242%2Fwhite-house-threatens-veto-over-epa-secret-science-bills%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/04/2254242/white-house-threatens-veto-over-epa-secret-science-bills?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/04/2254242/white-house-threatens-veto-over-epa-secret-science-bills?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7054229&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/VhCcE_NCLYc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-05T00:09:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>no-sir-I-don't-like-it</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>1</slash:comments>
+<slash:hit_parade>1,1,1,1,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/04/2254242/white-house-threatens-veto-over-epa-secret-science-bills?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/04/2047226/paul-allen-helps-find-sunken-japanese-wwii-battleship-musashi-off-philippines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Paul Allen Helps Find Sunken Japanese WWII Battleship Musashi Off Philippines</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6leOYgwcSKU/paul-allen-helps-find-sunken-japanese-wwii-battleship-musashi-off-philippines</link>
+<description>mpicpp writes with news about the discovery of a sunken Japanese battleship by Paul Allen and a team of researchers. Microsoft co-founder and philanthropist Paul Allen and his research team have found a massive Japanese World War II battleship off the Philippines near where it sank more than 70 years ago, his representatives said Wednesday. The apparent discovery of the wreckage of the Musashi, one of the largest battleships in history, comes as the world marks the 70th anniversary of the war's end. Allen and the team aboard his superyacht M/Y Octopus found the ship on Sunday, more than eight years after their search began, Allen's publicity agency Edelman said in a statement. Detailed images captured by a high-definition camera mounted on the underwater probe confirmed the wreckage as that of the Musashi, it said. Japanese experts said they were eager to study the images to try to confirm the ship's identity. Allen's team found the battleship in the Sibuyan Sea, using an autonomous underwater vehicle in its third dive after narrowing down the search area using detailed undersea topographical data and other locator devices, the statement said. "The Musashi is truly an engineering marvel and as an engineer at heart, I have a deep appreciation for the technology and effort that went into its construction," Allen said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Paul+Allen+Helps+Find+Sunken+Japanese+WWII+Battleship+Musashi+Off+Philippines%3A+http%3A%2F%2Fbit.ly%2F1w4BnW3"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F04%2F2047226%2Fpaul-allen-helps-find-sunken-japanese-wwii-battleship-musashi-off-philippines%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/04/2047226/paul-allen-helps-find-sunken-japanese-wwii-battleship-musashi-off-philippines?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/04/2047226/paul-allen-helps-find-sunken-japanese-wwii-battleship-musashi-off-philippines?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7053905&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/6leOYgwcSKU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-04T23:25:00+00:00</dc:date>
+<dc:subject>japan</dc:subject>
+<slash:department>davy-jones'-locker</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>20</slash:comments>
+<slash:hit_parade>20,19,15,12,2,1,0</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/04/2047226/paul-allen-helps-find-sunken-japanese-wwii-battleship-musashi-off-philippines?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/03/04/2038208/new-wolfenstein-game-announced-the-old-blood?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New Wolfenstein Game Announced: The Old Blood</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/K6BpCgX_B1c/new-wolfenstein-game-announced-the-old-blood</link>
+<description>jones_supa writes Last year, Wolfenstein: The New Order was well received, and showed that old school shooters still can do extremely well in the current market and actually be a lot of fun. Now, Bethesda Softworks is already announcing a standalone prequel to The New Order, called Wolfenstein: The Old Blood. It's back to the roots for B.J. Blazkowicz, and you embark on a perilous journey "deep within Bavaria", with the goal of infiltrating the Castle Wolfenstein. Just like last years' game, The Old Blood has been developed by Swedish company MachineGames on the same platform including id Tech 5 engine. The release date is May 5th and the game will be available for PC, Xbox One, and PlayStation 4.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+Wolfenstein+Game+Announced%3A+The+Old+Blood%3A+http%3A%2F%2Fbit.ly%2F1M6DXNs"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F03%2F04%2F2038208%2Fnew-wolfenstein-game-announced-the-old-blood%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/03/04/2038208/new-wolfenstein-game-announced-the-old-blood?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/03/04/2038208/new-wolfenstein-game-announced-the-old-blood?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7053877&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/K6BpCgX_B1c" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-04T22:42:00+00:00</dc:date>
+<dc:subject>games</dc:subject>
+<slash:department>mein-leben</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,21,12,7,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/03/04/2038208/new-wolfenstein-game-announced-the-old-blood?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/03/04/2025253/spacexs-challenge-against-blue-origins-patent-fails-to-take-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>SpaceX's Challenge Against Blue Origins' Patent Fails To Take Off</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/uE-0c2B3dew/spacexs-challenge-against-blue-origins-patent-fails-to-take-off</link>
+<description>speedplane writes As was previously discussed on Slashdot, back in September SpaceX challenged a patent owned by Blue Origin. The technology concerned landing rockets at sea. Yesterday, the judges in the case issued their opinion stating that they are unable to initiate review of the patent on the grounds brought by SpaceX. Although at first glance this would appear to be a Blue Origin win, looking closer, the judges explained that Blue Origin's patent lacks sufficient disclosure, effectively stating that the patent is invalid, but not on the specific grounds brought by SpaceX: "Because claim 14 lacks adequate structural support for some of the means-plus-function limitations, it is not amenable to construction. And without ascertaining the breadth of claim 14, we cannot undertake the necessary factual inquiry for evaluating obviousness with respect to differences between the claimed subject matter and the prior art." If SpaceX wants to move forward against Blue Origin, this opinion bodes well for them, but they will need to take their case in front of a different court.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=SpaceX's+Challenge+Against+Blue+Origins'+Patent+Fails+To+Take+Off%3A+http%3A%2F%2Fbit.ly%2F1BSZ9Hf"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F03%2F04%2F2025253%2Fspacexs-challenge-against-blue-origins-patent-fails-to-take-off%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/03/04/2025253/spacexs-challenge-against-blue-origins-patent-fails-to-take-off?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/03/04/2025253/spacexs-challenge-against-blue-origins-patent-fails-to-take-off?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7053827&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/uE-0c2B3dew" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-04T21:50:00+00:00</dc:date>
+<dc:subject>patents</dc:subject>
+<slash:department>take-them-to-court</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>28</slash:comments>
+<slash:hit_parade>28,27,19,17,1,1,1</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/03/04/2025253/spacexs-challenge-against-blue-origins-patent-fails-to-take-off?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/03/04/2031241/star-trek-fans-told-to-stop-spocking-canadian-5-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>&lt;em&gt;Star Trek&lt;/em&gt; Fans Told To Stop "Spocking" Canadian $5 Bill</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6j56ucpqHH0/star-trek-fans-told-to-stop-spocking-canadian-5-bill</link>
+<description>bellwould writes The Toronto Sun is reporting that Bank of Canada executives are urging Star Trek fans to stop altering Wilfred Laurier's face on the Canadian $5 bill to look like Spock. Although not illegal to draw on the bills, a Bank of Canada spokesperson points out that the markings may reduce effectiveness of the security features or worse, the money may not be accepted.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Star+Trek+Fans+Told+To+Stop+%22Spocking%22+Canadian+%245+Bill%3A+http%3A%2F%2Fbit.ly%2F1aLJNZ4"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F03%2F04%2F2031241%2Fstar-trek-fans-told-to-stop-spocking-canadian-5-bill%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/03/04/2031241/star-trek-fans-told-to-stop-spocking-canadian-5-bill?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/03/04/2031241/star-trek-fans-told-to-stop-spocking-canadian-5-bill?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7053843&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/6j56ucpqHH0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-04T21:26:00+00:00</dc:date>
+<dc:subject>canada</dc:subject>
+<slash:department>draw-it-on-and-prosper</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>97</slash:comments>
+<slash:hit_parade>97,93,68,60,15,8,4</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/03/04/2031241/star-trek-fans-told-to-stop-spocking-canadian-5-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/03/04/2026247/drones-underwater-drones-on-wheels-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Drones Underwater, Drones on Wheels (Video)</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/RLz5qsZn9cE/drones-underwater-drones-on-wheels-video</link>
+<description>Rocky Mountain Unmanned Systems seems to be primarily in the business of selling aerial 'copter drones ranging in price from sub-$100 up into $1000s. But there they were at the 2015 CES (Consumer Electronics Show), showing off a submarine drone and a wheeled drone. These products don't seem to be on the company's website or even on their Facebook page quite yet. Jon McBride, the person manning their CES booth, told Timothy these products would be around soon, as in February. But it looks like a bit of extra patience is in order, although you can contact Jon through the company's Facebook page (his suggestion) if you have an urgent need for an underwater or wheeled drone for your business or government agency -- or even just for fun.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Drones+Underwater%2C+Drones+on+Wheels+(Video)%3A+http%3A%2F%2Fbit.ly%2F1wVVUHv"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F03%2F04%2F2026247%2Fdrones-underwater-drones-on-wheels-video%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/03/04/2026247/drones-underwater-drones-on-wheels-video?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/03/04/2026247/drones-underwater-drones-on-wheels-video?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7053833&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/RLz5qsZn9cE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Roblimo</dc:creator>
+<dc:date>2015-03-04T21:07:00+00:00</dc:date>
+<dc:subject>robot</dc:subject>
+<slash:department>drones-above-and-drones-below</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>14</slash:comments>
+<slash:hit_parade>14,14,7,6,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/03/04/2026247/drones-underwater-drones-on-wheels-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/03/04/1748223/new-zealand-spied-on-nearly-two-dozen-pacific-countries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New Zealand Spied On Nearly Two Dozen Pacific Countries</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4MRxfO1HuVI/new-zealand-spied-on-nearly-two-dozen-pacific-countries</link>
+<description>An anonymous reader writes New documents from Edward Snowden indicate New Zealand undertook "full take" interception of communications from Pacific nations and forwarded the data to the NSA. The data, collected by New Zealand's Government Communications Security Bureau, was then fed into the NSA's XKeyscore search engine to allow analysts to trawl for intelligence. The New Zealand link helped flesh out the NSA's ambitions to intercept communications globally.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+Zealand+Spied+On+Nearly+Two+Dozen+Pacific+Countries%3A+http%3A%2F%2Fbit.ly%2F1ENReu1"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F03%2F04%2F1748223%2Fnew-zealand-spied-on-nearly-two-dozen-pacific-countries%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/03/04/1748223/new-zealand-spied-on-nearly-two-dozen-pacific-countries?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/03/04/1748223/new-zealand-spied-on-nearly-two-dozen-pacific-countries?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7053251&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/4MRxfO1HuVI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-04T20:20:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>keep-your-eyes-on-your-own-paper</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>75</slash:comments>
+<slash:hit_parade>75,74,50,41,11,5,3</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/03/04/1748223/new-zealand-spied-on-nearly-two-dozen-pacific-countries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://mobile.slashdot.org/story/15/03/04/1746209/microsoft-convinced-that-windows-10-will-be-its-smartphone-breakthrough?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft Convinced That Windows 10 Will Be Its Smartphone Breakthrough</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/lTZs3UIXp04/microsoft-convinced-that-windows-10-will-be-its-smartphone-breakthrough</link>
+<description>jfruh (300774) writes "At the Mobile World Congress in Barcelona, handset manufacturers are making all the right noises about support for Windows 10, which will run on both ARM- and Intel-based phones and provide an experience very much like the desktop. But much of the same buzz surrounded Windows 8 and Windows 7 Phone. In fact, Microsoft has tried and repeatedly failed to take the mobile space by storm."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Convinced+That+Windows+10+Will+Be+Its+Smartphone+Breakthrough%3A+http%3A%2F%2Fbit.ly%2F1wVDDdi"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmobile.slashdot.org%2Fstory%2F15%2F03%2F04%2F1746209%2Fmicrosoft-convinced-that-windows-10-will-be-its-smartphone-breakthrough%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://mobile.slashdot.org/story/15/03/04/1746209/microsoft-convinced-that-windows-10-will-be-its-smartphone-breakthrough?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/15/03/04/1746209/microsoft-convinced-that-windows-10-will-be-its-smartphone-breakthrough?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7053239&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/lTZs3UIXp04" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-04T19:37:00+00:00</dc:date>
+<dc:subject>cellphones</dc:subject>
+<slash:department>for-sure-this-time</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>250</slash:comments>
+<slash:hit_parade>250,248,187,168,39,21,11</slash:hit_parade>
+<feedburner:origLink>http://mobile.slashdot.org/story/15/03/04/1746209/microsoft-convinced-that-windows-10-will-be-its-smartphone-breakthrough?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://linux.slashdot.org/story/15/03/04/1740233/demand-for-linux-skills-rising-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Demand For Linux Skills Rising This Year</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/2HMb-2YmH7Q/demand-for-linux-skills-rising-this-year</link>
+<description>Nerval's Lobster writes This year is shaping up as a really good one for Linux, at least on the jobs front. According to a new report (PDF) from The Linux Foundation and Dice, nearly all surveyed hiring managers want to recruit Linux professionals within the next six months, with 44 percent of them indicating they're more likely to hire a candidate with Linux certification over one who does not. Forty-two percent of hiring managers say that experience in OpenStack and CloudStack will have a major impact on their hiring decisions, while 23 percent report security is a sought-after area of expertise and 19 percent are looking for Linux-skilled people with Software-Defined Networking skills. Ninety-seven percent of hiring managers report they will bring on Linux talent relative to other skills areas in the next six months.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Demand+For+Linux+Skills+Rising+This+Year%3A+http%3A%2F%2Fbit.ly%2F1Fa8vLN"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Flinux.slashdot.org%2Fstory%2F15%2F03%2F04%2F1740233%2Fdemand-for-linux-skills-rising-this-year%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://linux.slashdot.org/story/15/03/04/1740233/demand-for-linux-skills-rising-this-year?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://linux.slashdot.org/story/15/03/04/1740233/demand-for-linux-skills-rising-this-year?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7053217&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/2HMb-2YmH7Q" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-04T18:54:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>popular-kids</slash:department>
+<slash:section>linux</slash:section>
+<slash:comments>77</slash:comments>
+<slash:hit_parade>77,74,42,35,14,5,4</slash:hit_parade>
+<feedburner:origLink>http://linux.slashdot.org/story/15/03/04/1740233/demand-for-linux-skills-rising-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://entertainment.slashdot.org/story/15/03/04/179222/the-moon-is-a-harsh-mistress-coming-to-the-big-screen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>'The Moon Is a Harsh Mistress' Coming To the Big Screen</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/aBYf32K_c3Y/the-moon-is-a-harsh-mistress-coming-to-the-big-screen</link>
+<description>HughPickens.com writes: According to the Hollywood Reporter, Twentieth Century Fox recently picked up the movie rights to The Moon is a Harsh Mistress, based on the classic sci-fi book by Robert A. Heinlein. It will retitled as Uprising. Heinlein's 1966 sci-fi novel centers on a lunar colony's revolt against rule from Earth, and the book popularized the acronym TANSTAAFL (There ain't no such thing as a free lunch), a central, libertarian theme. The novel was nominated for the 1966 Nebula award (honoring the best sci-fi and fantasy work in the U.S.) and won the Hugo Award for best science fiction novel in 1967. An adaptation has been attempted twice before &amp;mdash; by DreamWorks, which had a script by Ted Elliott and Terry Rossio, and by Phoenix Pictures, with Harry Potter producer David Heyman attached &amp;mdash; but both languished and the rights reverted to Heinlein's estate. Brian Singer, who previously directed X-Men: Days of Future Past, will adapt the screenplay and reportedly direct. Several of Heinlein's works have been adapted for the big and small screen, including the 1953 film Project Moonbase, the 1994 TV miniseries Red Planet, the 1994 film The Puppet Masters, the 2014 film Predestination, and &amp;mdash; very loosely &amp;mdash; the 1997 film Starship Troopers.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status='The+Moon+Is+a+Harsh+Mistress'+Coming+To+the+Big+Screen%3A+http%3A%2F%2Fbit.ly%2F1aLxqMD"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F15%2F03%2F04%2F179222%2Fthe-moon-is-a-harsh-mistress-coming-to-the-big-screen%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://entertainment.slashdot.org/story/15/03/04/179222/the-moon-is-a-harsh-mistress-coming-to-the-big-screen?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://entertainment.slashdot.org/story/15/03/04/179222/the-moon-is-a-harsh-mistress-coming-to-the-big-screen?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7053065&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/aBYf32K_c3Y" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-04T18:11:00+00:00</dc:date>
+<dc:subject>scifi</dc:subject>
+<slash:department>but-first-get-a-permit</slash:department>
+<slash:section>entertainment</slash:section>
+<slash:comments>209</slash:comments>
+<slash:hit_parade>209,207,160,138,43,27,14</slash:hit_parade>
+<feedburner:origLink>http://entertainment.slashdot.org/story/15/03/04/179222/the-moon-is-a-harsh-mistress-coming-to-the-big-screen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/04/1621252/us-air-traffic-control-system-is-riddled-with-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>US Air Traffic Control System Is Riddled With Vulnerabilities</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7xnh3J9qdxA/us-air-traffic-control-system-is-riddled-with-vulnerabilities</link>
+<description>An anonymous reader writes: A recently released report (PDF) by the U.S. Government Accountability Office has revealed that despite some improvements, the Federal Aviation Administration (FAA) still needs to quash significant security control weaknesses that threaten the agency's ability to ensure the safe and uninterrupted operation of the national airspace system (NAS). The report found that while the "FAA established policies and procedures for controlling access to NAS systems and for configuring its systems securely, and it implemented firewalls and other boundary protection controls to protect the operational NAS environment [...] a significant number of weaknesses remain in the technical controls&amp;mdash;including access controls, change controls, and patch management&amp;mdash;that protect the confidentiality, integrity, and availability of its air traffic control systems."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=US+Air+Traffic+Control+System+Is+Riddled+With+Vulnerabilities%3A+http%3A%2F%2Fbit.ly%2F18Pp6uE"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F04%2F1621252%2Fus-air-traffic-control-system-is-riddled-with-vulnerabilities%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/04/1621252/us-air-traffic-control-system-is-riddled-with-vulnerabilities?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/04/1621252/us-air-traffic-control-system-is-riddled-with-vulnerabilities?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7052923&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/7xnh3J9qdxA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-04T17:28:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>things-you-shouldn't-read-before-your-flight-today</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>52</slash:comments>
+<slash:hit_parade>52,50,31,29,8,5,1</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/04/1621252/us-air-traffic-control-system-is-riddled-with-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/04/1536201/racial-discrimination-affects-virtual-reality-characters-too?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Racial Discrimination Affects Virtual Reality Characters Too</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wDI0E128HtQ/racial-discrimination-affects-virtual-reality-characters-too</link>
+<description>vrml writes: You are looking for the exit of a building in a virtual reality experience when a virtual character gets stuck in a room and cries for your help. Could the color of the skin (black or white) of the virtual human influence your decision to provide or refuse help? That's what comes out from a new study published by the journal Computers in Human Behavior. White users were told that they had to reach the exit of the virtual building as soon as possible. The number of users who decided to help tripled when the virtual victim was white rather than black. Researchers tried also other conditions in which they did not put users under time pressure: this reduced the discrimination, although the number of users who helped remained more favorable for the white rather than the black virtual human. The paper explains these results in terms of the automatic categorization processes that originate from unwanted, unconscious social and cultural biases: putting people under pressure increases automatic responses, leading to more discrimination towards the black character.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Racial+Discrimination+Affects+Virtual+Reality+Characters+Too%3A+http%3A%2F%2Fbit.ly%2F1FWL7Sf"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F04%2F1536201%2Fracial-discrimination-affects-virtual-reality-characters-too%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/04/1536201/racial-discrimination-affects-virtual-reality-characters-too?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/04/1536201/racial-discrimination-affects-virtual-reality-characters-too?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7052785&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/wDI0E128HtQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-04T17:06:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>why-are-you-so-mean-to-your-Sims-characters</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>205</slash:comments>
+<slash:hit_parade>205,203,141,114,29,16,8</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/04/1536201/racial-discrimination-affects-virtual-reality-characters-too?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/03/04/1526202/one-year-later-were-no-closer-to-finding-mtgoxs-missing-millions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>One Year Later, We're No Closer To Finding MtGox's Missing Millions</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/YNy42XGyfiI/one-year-later-were-no-closer-to-finding-mtgoxs-missing-millions</link>
+<description>itwbennett writes: When Mt. Gox collapsed on Feb. 28, 2014, with liabilities of some &amp;yen;6.5 billion ($63.6 million), it said it was unable to account for some 850,000 bitcoins. Some 200,000 of them turned up in an old-format bitcoin wallet last March, bringing the tally of missing bitcoins to 650,000 (now worth about $180 million). In January, Japan's Yomiuri Shimbun newspaper, citing sources close to a Tokyo police probe of the MtGox collapse, reported that only 7,000 of the coins appear to have been taken by hackers, with the remainder stolen through a series of fraudulent transactions. But there's still no explanation of what happened to them, and no clear record of what happened on the exchange.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=One+Year+Later%2C+We're+No+Closer+To+Finding+MtGox's+Missing+Millions%3A+http%3A%2F%2Fbit.ly%2F1w3ihj1"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F03%2F04%2F1526202%2Fone-year-later-were-no-closer-to-finding-mtgoxs-missing-millions%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/03/04/1526202/one-year-later-were-no-closer-to-finding-mtgoxs-missing-millions?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/03/04/1526202/one-year-later-were-no-closer-to-finding-mtgoxs-missing-millions?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7052757&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/YNy42XGyfiI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-04T16:45:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>crime-pays</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>146</slash:comments>
+<slash:hit_parade>146,143,103,71,21,13,10</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/03/04/1526202/one-year-later-were-no-closer-to-finding-mtgoxs-missing-millions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/03/04/1444224/the-mexican-drug-cartels-involuntary-it-guy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Mexican Drug Cartels' Involuntary IT Guy</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Wq68VBKoY2k/the-mexican-drug-cartels-involuntary-it-guy</link>
+<description>sarahnaomi writes: It could have been any other morning. Felipe del Jes&amp;#250;s Per&amp;#233;z Garc&amp;#237;a got dressed, said goodbye to his wife and kids, and drove off to work. It would be a two hour commute from their home in Monterrey, in Northeastern Mexico's Nuevo Le&amp;#243;n state, to Reynosa, in neighboring Tamaulipas state, where Felipe, an architect, would scout possible installation sites for cell phone towers for a telecommunications company before returning that evening That was the last time anyone saw him. What happened to Felipe Garc&amp;#237;a? One theory suggests he was abducted by a sophisticated organized crime syndicate, and then forced into a hacker brigade that builds and services the cartel's hidden, backcountry communications infrastructure. They're the Geek Squads to some of the biggest mafia-style organizations in the world.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Mexican+Drug+Cartels'+Involuntary+IT+Guy%3A+http%3A%2F%2Fbit.ly%2F1wUYbCP"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F03%2F04%2F1444224%2Fthe-mexican-drug-cartels-involuntary-it-guy%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/03/04/1444224/the-mexican-drug-cartels-involuntary-it-guy?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/03/04/1444224/the-mexican-drug-cartels-involuntary-it-guy?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7052661&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/Wq68VBKoY2k" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-04T16:03:00+00:00</dc:date>
+<dc:subject>it</dc:subject>
+<slash:department>undesirable-career-paths</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>95</slash:comments>
+<slash:hit_parade>95,93,64,48,15,9,2</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/03/04/1444224/the-mexican-drug-cartels-involuntary-it-guy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/03/04/1337227/nvidia-announces-shield-game-console?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NVIDIA Announces SHIELD Game Console</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/v-guXl1-YG8/nvidia-announces-shield-game-console</link>
+<description>MojoKid writes: NVIDIA held an event in San Francisco last night at GDC, where the company unveiled a new Android TV streamer, game console, and supercomputer, as NVIDIA's Jen Hsun Huang calls it, all wrapped up in a single, ultra-slim device called NVIDIA SHIELD. The SHIELD console is powered by the NVIDIA Tegra X1 SoC with 3GB of RAM, 16GB of storage, Gig-E and 802.11ac 2x2 MIMO WiFi. It's also 4K Ultra-HD Ready with 4K playback and capture up to 60 fps (VP9, H265, H264) with encode/decode with full hardware processing. The company claims the console provides twice the performance of an Xbox 360. NVIDIA demo'ed the device with Android TV, streaming music and HD movies and browsing social media. The device can stream games from a GeForce powered PC to your television or from NVIDIA's GRID cloud gaming service, just like previous NVIDIA SHIELD devices. Native Android games will also run on the SHIELD console. NVIDIA's plan is to offer a wide array of native Android titles in the SHIELD store, as well as leverage the company's relationships with game developers to bring top titles to GRID. The device was shown playing Gearbox's Borderlands The Pre-Sequel, Doom 3 BFG Edition, Metal Gear Solid V, the Unreal Engine 4 Infiltrator demo and yes, even Crysis 3.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NVIDIA+Announces+SHIELD+Game+Console%3A+http%3A%2F%2Fbit.ly%2F1BHq3Qv"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F03%2F04%2F1337227%2Fnvidia-announces-shield-game-console%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/03/04/1337227/nvidia-announces-shield-game-console?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/03/04/1337227/nvidia-announces-shield-game-console?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7052385&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/v-guXl1-YG8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-04T15:20:00+00:00</dc:date>
+<dc:subject>android</dc:subject>
+<slash:department>a-challenger-appears</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>102</slash:comments>
+<slash:hit_parade>102,101,76,65,14,5,4</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/03/04/1337227/nvidia-announces-shield-game-console?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
